@@ -1,0 +1,42 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+	
+}
+
+.conten_gral{
+	display: flex;
+	flex-direction: row;
+	background-color:  #ffbd33 ;
+	border-radius:0 20px;
+	width: 95vw;
+	height: 70vh;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+.contenedor{
+	width: 500px;
+	height: 300px;
+    color: gray;
+	background-color:  #FFFFFF;
+	padding: 30px;
+	border-radius:0 20px;
+    margin: 20px;
+}
+
+h2{
+	text-transform: uppercase;
+	text-decoration: underline;
+	color:  #ffbd33;
+	
+}
